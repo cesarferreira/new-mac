@@ -1,0 +1,37 @@
+
+# Utils
+brew cask install clipy
+brew cask install spectacle
+brew cask install appcleaner
+
+# dev
+brew install iterm2
+brew install heroku
+brew install wget
+brew install rbenv
+brew install python
+brew cask install java
+brew cask install android-studio
+brew cask install android-ndk
+
+# niceties
+brew cask install aerial
+
+# communication
+brew cask install skype
+brew cask install whatsapp
+brew cask install sourcetree
+brew cask install slack
+
+# browsers
+brew cask install google-chrome
+brew cask install torbrowser
+brew cask install opera
+brew cask install firefox
+
+# QuickLook plugins
+brew cask install qlmarkdown qlstephen qlcolorcode quicklook-json qlprettypatch
+brew cask install quicklook-csv qlimagesize webpquicklook provisionql
+
+# media
+brew cask install vlc
